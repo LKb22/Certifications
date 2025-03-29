@@ -45,12 +45,14 @@ This repository contains my professional certifications and achievements in **so
 [![Honeypot Reference Letter](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf)
 
 ## 🎓 **University Degrees**
-
-#### Undergrad Diploma
-[![Undergrad UMASS Diploma](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf)
-
-#### Master's Dimploma
-[![Master's University of Freiburg Diploma](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Preliminary%20Degree%20Kucinski.pdf)
+<p align="left">
+  <a href="https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Undergrad%20Diploma-PDF-green?style=for-the-badge&logo=mortar-board" alt="Undergrad UMASS Diploma">
+  </a>
+  <a href="https://github.com/LKb22/Certifications/blob/main/Preliminary%20Degree%20Kucinski.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Master's%20Diploma-PDF-green?style=for-the-badge&logo=mortar-board" alt="Master's University of Freiburg Diploma">
+  </a>
+</p>
 
 ---
 
