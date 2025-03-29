@@ -21,7 +21,7 @@ This repository contains my professional certifications and achievements in **so
 ![Managing Clean Core for SAP S4HANA Cloud](https://github.com/LKb22/Certifications/blob/main/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png)
 
 ## University
-![Undergrad UMASS Transcript](https://github.com/LKb22/Certifications/blob/main/UMass%20Transcript.pdf)
+![Undergrad UMASS Diploma](https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf)
 ![Master's University of Freiburg Diploma](https://github.com/LKb22/Certifications/blob/main/Preliminary%20Degree%20Kucinski.pdf)
 
 ---
