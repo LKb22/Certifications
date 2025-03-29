@@ -20,7 +20,7 @@ This repository contains my professional certifications and achievements in **so
 ## 🛠️ Software Development
 
 ### Full-Stack Development
-![Le Wagon Diploma](https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png)
+<img src="https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png" width="200"
 
 #### GitHub Foundations
 [![GitHub Foundations](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge&logo=github)](https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf)
