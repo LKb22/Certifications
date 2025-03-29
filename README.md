@@ -2,6 +2,21 @@
 
 This repository contains my professional certifications and achievements in **software development**, **project management**, **product management**, and **university**.
 
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luke-kucinski-52198617a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://login.xing.com/?locale=en&dest_url=https%3A%2F%2Fwww.xing.com%2Fprofile%2FLuke_Kucinski097248" target="_blank">
+    <img src="https://img.shields.io/badge/Xing-026466?style=for-the-badge&logo=xing&logoColor=white" alt="Xing">
+  </a>
+  <a href="https://github.com/LKb22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+
 ## 🛠️ Software Development
 
 ### Full-Stack Development
