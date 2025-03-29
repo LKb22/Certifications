@@ -41,7 +41,7 @@ This repository contains my professional certifications and achievements in **so
 
 ---
 
-## ** :pencil: Employer Reference Letter **
+## **:pencil: Employer Reference Letter**
 [![Honeypot Reference Letter](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf)
 
 ## 🎓 **University Degrees**
