@@ -25,10 +25,10 @@ This repository contains my professional certifications and achievements in **so
 </p>
 
 #### GitHub Foundations
-[![GitHub Foundations](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge&logo=github)](https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf)
+[![GitHub Foundations](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=github)](https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf)
 
 #### SQL Certifications
-[![SQL Associate](https://img.shields.io/badge/View-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf)
+[![SQL Associate](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=adobe)](https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf)
 
 #### SAP Badges
 <p align="left">
@@ -41,10 +41,13 @@ This repository contains my professional certifications and achievements in **so
 
 ---
 
+## ** :pencil: Employer Reference Letter **
+[![Honeypot Reference Letter](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf)
+
 ## 🎓 **University Degrees**
 
 #### Undergrad Diploma
-[![Undergrad UMASS Diploma](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf)
+[![Undergrad UMASS Diploma](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf)
 
 #### Master's Dimploma
 [![Master's University of Freiburg Diploma](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Preliminary%20Degree%20Kucinski.pdf)
