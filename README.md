@@ -56,7 +56,7 @@ This repository contains my professional certifications and achievements in **so
 
 ## 🎓 **University Degrees**
 <p align="left">
-  <a href="https://github.com/LKb22/Certifications/blob/main/items/UMASS%20Diploma.pdf" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/6ae3f7cd52fd0ca1ac88c097e940554e009c87e1/items/UMASS%20Diploma.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Undergrad%20Diploma-PDF-green?style=for-the-badge&logo=mortar-board" alt="Undergrad UMASS Diploma">
   </a>
   <a href="https://github.com/LKb22/Certifications/blob/main/items/Preliminary%20Degree%20Kucinski.pdf" target="_blank">
