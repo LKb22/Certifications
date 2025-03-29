@@ -20,7 +20,9 @@ This repository contains my professional certifications and achievements in **so
 ## 🛠️ Software Development
 
 ### Full-Stack Development
-<img src="https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png" width="200"
+<p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png" width="200">
+</p>
 
 #### GitHub Foundations
 [![GitHub Foundations](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge&logo=github)](https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf)
