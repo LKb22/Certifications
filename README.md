@@ -24,11 +24,14 @@ This repository contains my professional certifications and achievements in **so
   <img src="https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png" width="200">
 </p>
 
-#### GitHub Foundations
-[![GitHub Foundations](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=github)](https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf)
-
-#### SQL Certifications
-[![SQL Associate](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=adobe)](https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf)
+<p align="left">
+  <a href="https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Foundations-PDF-green?style=for-the-badge&logo=mortar-board" alt="GitHub Foundations">
+  </a>
+  <a href="https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Associate-PDF-green?style=for-the-badge&logo=mortar-board" alt="SQL Associate">
+  </a>
+</p>
 
 #### SAP Badges
 <p align="left">
@@ -63,5 +66,4 @@ This repository contains my professional certifications and achievements in **so
 ---
 
 ## 🔗 **Shareable Link**
-📢 You can share this repo as proof of certifications:
 ➡️ **[https://github.com/LKb22/Certifications](https://github.com/LKb22/Certifications)**
