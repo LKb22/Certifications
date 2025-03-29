@@ -21,7 +21,7 @@ This repository contains my professional certifications and achievements in **so
 
 ### Full-Stack Development
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Diploma%20image.png" width="200">
+  <img src="https://github.com/LKb22/Certifications/items/blob/main/Diploma%20image.png" width="200">
 </p>
 
 <p align="left">
