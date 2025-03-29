@@ -14,11 +14,11 @@ This repository contains my professional certifications and achievements in **so
 ![SQL Associate](https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf)
 
 #### SAP
-![Creating Applications and Extensions using SAP Build Code](https://github.com/LKb22/Certifications/blob/main/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png)
-![Discovering SAP Business Technology Platform](https://github.com/LKb22/Certifications/blob/main/Discovering%20SAP%20Business%20Technology%20Platform.png)
-![Getting Started with Web Development](https://github.com/LKb22/Certifications/blob/main/Getting%20Started%20with%20Web%20Development.png)
-![Learning the Basics of ABAP Programming on SAP BTP](https://github.com/LKb22/Certifications/blob/main/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png)
-![Managing Clean Core for SAP S4HANA Cloud](https://github.com/LKb22/Certifications/blob/main/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png)
+<img src="https://github.com/LKb22/Certifications/blob/main/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="200">
+<img src="https://github.com/LKb22/Certifications/blob/main/Discovering%20SAP%20Business%20Technology%20Platform.png" width="200">
+<img src="https://github.com/LKb22/Certifications/blob/main/Getting%20Started%20with%20Web%20Development.png" width="200">
+<img src="https://github.com/LKb22/Certifications/blob/main/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="200">
+<img src="https://github.com/LKb22/Certifications/blob/main/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="200">
 
 ## University
 ![Undergrad UMASS Diploma](https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf)
