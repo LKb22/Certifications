@@ -14,7 +14,7 @@ This repository contains my professional certifications and achievements in **so
 [![SQL Associate](https://img.shields.io/badge/View-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf)
 
 #### SAP Badges
-<p align="center">
+<p align="left">
   <img src="https://github.com/LKb22/Certifications/blob/main/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="100">
   <img src="https://github.com/LKb22/Certifications/blob/main/Discovering%20SAP%20Business%20Technology%20Platform.png" width="100">
   <img src="https://github.com/LKb22/Certifications/blob/main/Getting%20Started%20with%20Web%20Development.png" width="100">
