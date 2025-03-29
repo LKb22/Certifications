@@ -4,7 +4,7 @@ This repository contains my professional certifications and achievements in **so
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/luke-kucinski-52198617a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
