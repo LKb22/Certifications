@@ -44,8 +44,15 @@ This repository contains my professional certifications and achievements in **so
 
 ---
 
-## **:pencil: Employer Reference Letter**
-[![Honeypot Reference Letter](https://img.shields.io/badge/View-PDF-green?style=for-the-badge&logo=mortar-board)](https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf)
+## **:pencil: Employer**
+<p align="left">
+  <a href="https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Honeypot%20Reference%20Letter-PDF-green?style=for-the-badge&logo=mortar-board" alt="Honeypot Reference Letter">
+  </a>
+  <a href="https://github.com/LKb22/Certifications/blob/main/DevSkiller%20Tech%20Recruitment.png" target="_blank">
+    <img src="https://img.shields.io/badge/DevSkiller%20Tech%20Recruiter-PDF-green?style=for-the-badge&logo=mortar-board" alt="DevSkiller Tech Recruiter">
+  </a>
+</p>
 
 ## 🎓 **University Degrees**
 <p align="left">
