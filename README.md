@@ -25,7 +25,7 @@ This repository contains my professional certifications and achievements in **so
 </p>
 
 <p align="left">
-  <a href="https://github.com/LKb22/Certifications/blob/main/GitHubFoundations_Badge.pdf" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/GitHubFoundations_Badge.pdf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Foundations-PDF-green?style=for-the-badge&logo=mortar-board" alt="GitHub Foundations">
   </a>
   <a href="https://github.com/LKb22/Certifications/blob/main/SQL%20Associate.pdf" target="_blank">
@@ -35,31 +35,31 @@ This repository contains my professional certifications and achievements in **so
 
 #### SAP Badges
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Discovering%20SAP%20Business%20Technology%20Platform.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Getting%20Started%20with%20Web%20Development.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Discovering%20SAP%20Business%20Technology%20Platform.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Getting%20Started%20with%20Web%20Development.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="100">
 </p>
 
 ---
 
 ## **:pencil: Employer**
 <p align="left">
-  <a href="https://github.com/LKb22/Certifications/blob/main/Luke_Kucinski_Abschlusszeugnis.pdf" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/Luke_Kucinski_Abschlusszeugnis.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Honeypot%20Reference%20Letter-PDF-green?style=for-the-badge&logo=mortar-board" alt="Honeypot Reference Letter">
   </a>
-  <a href="https://github.com/LKb22/Certifications/blob/main/DevSkiller%20Tech%20Recruitment.png" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/DevSkiller%20Tech%20Recruitment.png" target="_blank">
     <img src="https://img.shields.io/badge/DevSkiller%20Tech%20Recruiter-PDF-green?style=for-the-badge&logo=mortar-board" alt="DevSkiller Tech Recruiter">
   </a>
 </p>
 
 ## 🎓 **University Degrees**
 <p align="left">
-  <a href="https://github.com/LKb22/Certifications/blob/main/UMASS%20Diploma.pdf" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/UMASS%20Diploma.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Undergrad%20Diploma-PDF-green?style=for-the-badge&logo=mortar-board" alt="Undergrad UMASS Diploma">
   </a>
-  <a href="https://github.com/LKb22/Certifications/blob/main/Preliminary%20Degree%20Kucinski.pdf" target="_blank">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/Preliminary%20Degree%20Kucinski.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Master's%20Diploma-PDF-green?style=for-the-badge&logo=mortar-board" alt="Master's University of Freiburg Diploma">
   </a>
 </p>
