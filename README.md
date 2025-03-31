@@ -43,7 +43,8 @@ This repository contains my professional certifications and achievements in **so
 
 ---
 
-### Project & Product Management
+## 🛠️ Project & Product Management
+#### ClickUp
 <p align="left">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUp%20Expert.jpg" width="100">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUpBrain%20Expert.jpg" width="100">
