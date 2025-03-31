@@ -16,7 +16,6 @@ This repository contains my professional certifications and achievements in **so
   </a>
 </p>
 
-
 ## 🛠️ Software Development
 
 ### Full-Stack Development
@@ -40,6 +39,14 @@ This repository contains my professional certifications and achievements in **so
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Getting%20Started%20with%20Web%20Development.png" width="100">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="100">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="100">
+</p>
+
+---
+
+### Project & Product Management
+<p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUp%20Expert.jpg" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUpBrain%20Expert.jpg" width="100">
 </p>
 
 ---
