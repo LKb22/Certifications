@@ -23,12 +23,17 @@ This repository contains my professional certifications and achievements in **so
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Diploma%20image.png" width="200">
 </p>
 
+#### Databases & SQL
+<p align="left">
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/SQL%20Associate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Associate-PDF-green?style=for-the-badge&logo=mortar-board" alt="SQL Associate">
+  </a>
+</p>
+
+#### GitHub
 <p align="left">
   <a href="https://github.com/LKb22/Certifications/blob/main/items/GitHubFoundations_Badge.pdf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Foundations-PDF-green?style=for-the-badge&logo=mortar-board" alt="GitHub Foundations">
-  </a>
-  <a href="https://github.com/LKb22/Certifications/blob/main/items/SQL%20Associate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Associate-PDF-green?style=for-the-badge&logo=mortar-board" alt="SQL Associate">
   </a>
 </p>
 
