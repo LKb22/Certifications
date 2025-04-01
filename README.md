@@ -70,6 +70,9 @@ This repository contains my professional certifications, achievements, and proje
   <a href="https://github.com/LKb22/Certifications/blob/main/items/DevSkiller%20Tech%20Recruitment.png" target="_blank">
     <img src="https://img.shields.io/badge/DevSkiller%20Tech%20Recruiter-PDF-green?style=for-the-badge&logo=mortar-board" alt="DevSkiller Tech Recruiter">
   </a>
+  <a href="https://github.com/LKb22/Certifications/blob/main/items/TEFL%20Certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/120%20HR%20TEFL-PDF-green?style=for-the-badge&logo=mortar-board" alt="120 HR TEFL">
+  </a>
 </p>
 
 ## 🎓 **University Degrees**
