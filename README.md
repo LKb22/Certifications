@@ -20,7 +20,7 @@ This repository contains my professional certifications and achievements in **so
 
 ### Full-Stack Development
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Diploma%20image.png" width="200">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Diploma%20image.png" width="250">
 </p>
 
 #### Databases & SQL
@@ -39,11 +39,11 @@ This repository contains my professional certifications and achievements in **so
 
 #### SAP Badges
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Discovering%20SAP%20Business%20Technology%20Platform.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Getting%20Started%20with%20Web%20Development.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Discovering%20SAP%20Business%20Technology%20Platform.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Getting%20Started%20with%20Web%20Development.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="150">
 </p>
 
 ---
@@ -51,13 +51,13 @@ This repository contains my professional certifications and achievements in **so
 ## 🛠️ Project & Product Management
 #### ClickUp
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUp%20Expert.jpg" width="100">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUpBrain%20Expert.jpg" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUp%20Expert.jpg" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUpBrain%20Expert.jpg" width="150">
 </p>
 
 #### Asana
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="100">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="150">
 </p>
 
 ---
