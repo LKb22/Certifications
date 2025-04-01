@@ -1,6 +1,6 @@
 # 🎓 My Certifications & Badges
 
-This repository contains my professional certifications and achievements in **software development**, **project management**, **product management**, and **university**.
+This repository contains my professional certifications, achievements, and projects in **software development**, **project management**, **product management**, and **university**.
 
 ## 🔗 Connect with Me
 
