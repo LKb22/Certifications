@@ -26,7 +26,7 @@ This repository contains my professional certifications, achievements, and proje
 #### Databases & SQL
 <p align="left">
   <a href="https://github.com/LKb22/Certifications/blob/main/items/SQL%20Associate.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Associate-PDF-green?style=for-the-badge&logo=mortar-board" alt="SQL Associate">
+    <img src="https://img.shields.io/badge/Datacamp%20SQL%20Associate-PDF-green?style=for-the-badge&logo=mortar-board" alt="SQL Associate">
   </a>
 </p>
 
