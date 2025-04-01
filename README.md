@@ -55,6 +55,11 @@ This repository contains my professional certifications and achievements in **so
   <img src="https://github.com/LKb22/Certifications/blob/main/items/ClickUpBrain%20Expert.jpg" width="100">
 </p>
 
+#### Asana
+<p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="100">
+</p>
+
 ---
 
 ## **:pencil: Employer**
