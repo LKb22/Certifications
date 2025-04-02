@@ -60,6 +60,11 @@ This repository contains my professional certifications, achievements, and proje
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="150">
 </p>
 
+#### Miro
+<p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/miro-essentials.png" width="150">
+</p>
+
 ---
 
 ## **:pencil: Employer**
