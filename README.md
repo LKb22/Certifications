@@ -25,7 +25,9 @@ This repository contains my professional certifications, achievements, and proje
 
 #### Frontend
 <p align="left">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Advanced%20CSS%20and%20SASS.jpg" width="250">
+    <a href="https://github.com/LKb22/Certifications/blob/d5181c9c9b40169fcb47c8c82c21217bd71a8a3b/items/Advanced%20CSS%20and%20SASS.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/Advanced%20CSS%20and%20Sass-PDF-green?style=for-the-badge&logo=mortar-board" alt="Advanced CSS and Sass">
+  </a>
 </p>
 
 #### Databases & SQL
