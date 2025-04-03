@@ -46,11 +46,11 @@ This repository contains my professional certifications, achievements, and proje
 
 #### SAP Badges
 <p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="150">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Creating%20Applications%20and%20Extensions%20using%20SAP%20Build%20Code.png" width="150">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Discovering%20SAP%20Business%20Technology%20Platform.png" width="150">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Getting%20Started%20with%20Web%20Development.png" width="150">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Learning%20the%20Basics%20of%20ABAP%20Programming%20on%20SAP%20BTP.png" width="150">
-  <img src="https://github.com/LKb22/Certifications/blob/main/items/Managing%20Clean%20Core%20for%20SAP%20S4HANA%20Cloud.png" width="150">
 </p>
 
 ---
