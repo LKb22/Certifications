@@ -63,6 +63,7 @@ This repository contains my professional certifications, achievements, and proje
 #### Miro
 <p align="left">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/miro-essentials.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Elements%20of%20Agile%20in%20Miro.png" width="150">
 </p>
 
 ---
