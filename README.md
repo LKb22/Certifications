@@ -23,6 +23,11 @@ This repository contains my professional certifications, achievements, and proje
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Diploma%20image.png" width="250">
 </p>
 
+#### Frontend
+<p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Advanced%20CSS%20and%20SASS.jpg" width="250">
+</p>
+
 #### Databases & SQL
 <p align="left">
   <a href="https://github.com/LKb22/Certifications/blob/main/items/SQL%20Associate.pdf" target="_blank">
