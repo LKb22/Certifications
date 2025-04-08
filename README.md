@@ -58,6 +58,7 @@ This repository contains my professional certifications, achievements, and proje
 ## 🛠️ Project & Product Management
 #### Asana
 <p align="left">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Asana%20Foundations.png" width="150">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="150">
 </p>
 
