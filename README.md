@@ -60,6 +60,7 @@ This repository contains my professional certifications, achievements, and proje
 <p align="left">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Workflow%20Specialist.png" width="150">
   <img src="https://github.com/LKb22/Certifications/blob/main/items/Asana%20Foundations.png" width="150">
+  <img src="https://github.com/LKb22/Certifications/blob/main/items/Asana%20AI.png" width="150">
 </p>
 
 #### ClickUp
